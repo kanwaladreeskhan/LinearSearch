@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\bin\Debug\Linear Search.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\bin\Debug\Linear Search.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\bin\Debug\Linear Search.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\obj\Debug\Linear Search.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\obj\Debug\Linear Search.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\obj\Debug\Linear Search.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Linear Search\Linear Search\obj\Debug\Linear Search.pdb
